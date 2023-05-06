@@ -703,6 +703,7 @@
     )
   )
 
+
   (junction (at 146.05 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 0a221691-2092-47aa-96d9-62f3d8df28ed)
   )
@@ -2181,7 +2182,7 @@
     (property "Rating" "" (at 116.84 127 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MPN" "ADC141S626CIMM/NOPB" (at 116.84 127 0)
+    (property "MPN" "C206494" (at 116.84 127 0)
       (effects (font (size 1.27 1.27)))
     )
     (pin "1" (uuid 9d28cf8e-db52-44ff-aba5-97c214821a9a))
