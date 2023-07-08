@@ -61,14 +61,7 @@
           "width": 0.261112
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|118500000|134625000|eb3f4450-2e98-422d-8c94-64931e49eac8|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|131100000|78150000|2c7b82f3-fa69-4ad7-8faf-9e756f92ce09|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|149500000|134625000|5f90ffe3-95cc-425f-a0e3-179ae715c59f|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|163477500|91749999|a56fa9df-bfeb-442a-9499-4299a4264100|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|163627500|92049999|a56fa9df-bfeb-442a-9499-4299a4264100|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|163727500|92749999|a56fa9df-bfeb-442a-9499-4299a4264100|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
