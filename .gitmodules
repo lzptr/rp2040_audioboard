@@ -1,0 +1,6 @@
+[submodule "firmware/libs/segger"]
+	path = firmware/libs/segger
+	url = ../segger.git
+[submodule "firmware/libs/platforms"]
+	path = firmware/libs/platforms
+	url = ../platforms.git
