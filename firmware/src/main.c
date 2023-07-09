@@ -2,14 +2,17 @@
  * Minimal blinky example to test the build toolchain.
  */
 
+#include <math.h>
+#include <stdint.h>
 #include "pico/stdlib.h"
 
 #define LED_PIN 11
 
 int main()
 {
-    static char r;
     stdio_init_all();
+    printf("Hello RP2040 Audio Board\n");
+
     gpio_init(LED_PIN);
     gpio_set_dir(LED_PIN, GPIO_OUT);
 
