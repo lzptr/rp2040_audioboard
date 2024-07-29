@@ -20,7 +20,7 @@
         {
             "label": "BuildDebug",
             "type": "shell",
-            "command": "cmake -DCMAKE_BUILD_TYPE=Debug -DPICO_BOARD=RP2040_AUDIO_BOARD .. && make VERBOSE=1 -j6",
+            "command": "cmake -DCMAKE_BUILD_TYPE=Debug -DPICO_BOARD=rp2040_audio_board .. && make VERBOSE=1 -j6",
             "options": {
                 "cwd": "${workspaceFolder}/build"
             },

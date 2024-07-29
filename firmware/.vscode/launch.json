@@ -12,7 +12,7 @@
             "interface": "swd",
             "executable": "build/out/rp2040_audio_board.elf",
             "serverpath": "/opt/SEGGER/JLink_V786g/JLinkGDBServerCLExe",
-            "armToolchainPath": "/opt/toolchain/arm-gnu-toolchain-12.2.rel1-x86_64-arm-none-eabi/bin",
+            "gdbPath": "/usr/bin/gdb-multiarch",
             "svdFile": "/opt/toolchain/pico/pico-sdk/src/rp2040/hardware_regs/rp2040.svd",
             "runToEntryPoint": "main",
             "serverArgs": [
@@ -30,7 +30,7 @@
             "interface": "swd",
             "executable": "build/out/rp2040_audio_board.elf",
             "serverpath": "/opt/SEGGER/JLink_V786g/JLinkGDBServerCLExe",
-            "armToolchainPath": "/opt/toolchain/arm-gnu-toolchain-12.2.rel1-x86_64-arm-none-eabi/bin",
+            "gdbPath": "/usr/bin/gdb-multiarch",
             "svdFile": "/opt/toolchain/pico/pico-sdk/src/rp2040/hardware_regs/rp2040.svd",
             "runToEntryPoint": "main",
             "serverArgs": [
